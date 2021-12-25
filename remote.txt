@@ -1,0 +1,5 @@
+git remote 列出远程分支
+git remote -v 每一个远程别名后列出其远程的url
+git remote show   name  显示远程仓库name的详细信息
+git remote add origin "https://github.com/ThorKing01/GitLearning.git"  制定远程分支
+git remote rm origin  删除远程分支
